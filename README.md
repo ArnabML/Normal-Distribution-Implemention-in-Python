@@ -1,2 +1,2 @@
-# Normal-Distribution-Statistic-implemention-in-Python
+# Normal-Distribution-Implemention-in-Python
 Normal (Gaussian) Distribution code in python
